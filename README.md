@@ -48,6 +48,3 @@ Contributions to the project are welcome! You can contribute by:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-Special thanks to [provide acknowledgments if applicable].
